@@ -3,13 +3,13 @@ CS50x Cash solution in C – A greedy algorithm to calculate the minimum number 
 
 To run this code locally, you need a C compiler (such as gcc or clang) and the CS50 library.
 
-Compiling and RunninCS50x - Cash (Greedy Algorithm)
+## Compiling and RunninCS50x - Cash (Greedy Algorithm)
 
 This is a C program that calculates the minimum number of coins required to give a user change, implementing a Greedy Algorithm.
 
 This project is part of CS50's Introduction to Computer Science (Problem Set 1).
 
-How It Works:
+## How It Works:
 
 The program prompts the user for the amount of change owed (in cents) and continuously asks until a non-negative integer is provided. It then calculates the minimum number of coins needed using standard US coin denominations:
 
@@ -23,9 +23,9 @@ Pennies (1¢)
 
 The Greedy Algorithm always takes the largest possible coin value first to minimize the total coin count.
 
-Getting Started:
+### Getting Started:
 
-Prerequisites:
+## Prerequisites:
 
 If you are using the CS50 IDE or standard environment:
 
@@ -39,7 +39,7 @@ gcc cash.c -lcs50 -o cash
 ./cash
 
 
-Example Output:
+## Example Output:
 
 Change owned: 70
 4
