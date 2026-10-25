@@ -45,7 +45,7 @@ Change owned: 70
 4
 
 
-(70 cents = 2 quarters [50¢] + 2 dimes [20¢] = 4 coins total)
+(70 cents = 2 quarters [25¢] + 2 dimes [10¢] = 4 coins total)
 
 License
 
